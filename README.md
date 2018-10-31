@@ -197,5 +197,5 @@ fun changeIcon(context: Activity, currentComponentName: String, nextComponentNam
 
 ![SM-G9600_20181031163018](https://ws2.sinaimg.cn/large/006tNbRwly1fwriezgz6lg314024wnpk.gif)
 
-### Demo地址
+如果图片无法查看，可以尝试查看项目中的 img 文件夹中的sample.gif文件
 
